@@ -1,5 +1,7 @@
-[![p-garden's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&theme=radical)](https://github.com/p-garden/github-readme-statsl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&hide=prs,issues&theme=radical)](https://github.com/p-garden/github-readme-statsl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden)](https://github.com/p-gardne/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=j2982477)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=j2982477)](https://velog.io/@eungyeole)
 <!--
 **p-garden/p-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

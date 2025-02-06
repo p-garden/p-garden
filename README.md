@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&langs_count=8)](https://github.com/p-garden/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden)](https://github.com/p-garden/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden)
 

@@ -4,4 +4,5 @@
 *.styl linguist-vendored
 *.php linguist-vendored
 *.less linguist-vendored
+*.ipynb linguist-vendored
 *.py linguist-vendored=false

@@ -1,6 +1,6 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden)](https://github.com/p-garden/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=javascript,html,css,c%2B%2B,c,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=contribs,prs&theme=dracula)
 
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=j2982477)

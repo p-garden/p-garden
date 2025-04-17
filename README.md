@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=Jupyter%20Notebook,css,DockerFile,c%2B%2B,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=Jupyter%20Notebook,c%2B%2B&langs_count=5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)
 
 

@@ -1,5 +1,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=Jupyter%20Notebook,c%2B%2B&langs_count=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=j2982477)](https://github.com/j2982477/velog-readme-stats)

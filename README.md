@@ -1,4 +1,38 @@
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=d6b1fa&height=300&section=header&text=%20Jeongwon's%20GitHub%20&fontSize=90)
+<div style="text-align: left;"> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm majoring in DataScience. </div> 
+  
+   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in <li> Meachine Learning</li><li> NLP Model </li><li> LLM</li> </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻Tech Stacks💻 </h2> <br> 
+    <div align= "center">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+          <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+          <br> 
+          <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </div>
+    </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://velog.io/@j2982477/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@j2982477/posts"> </a>
+         <a href=https://www.notion.so/1cb7bf58e67180e0bec8c7b0f2f78df2> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1cb7bf58e67180e0bec8c7b0f2f78df2"> </a>
+         <a href=mailto:j2982477j@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:j2982477j@gmail.com"> </a>
+          </div>  <br> 
+    </div>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=Jupyter%20Notebook,c%2B%2B&langs_count=5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)
 

@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=d6b1fa&height=300&section=header&text=%20Jeongwon's%20GitHub%20&fontSize=90)
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm majoring in DataScience. </div> 
-  
+  <br>
    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in <li> Meachine Learning</li><li> NLP Model </li><li> LLM</li> </div> 
     </div>
     <div style="text-align: left;">
@@ -15,12 +15,17 @@
           <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
           <br> 
-          <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+         <img src ="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">       
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
     </div>
     </div>
@@ -32,9 +37,13 @@
           </div>  <br> 
     </div>
 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⚡️ Stats </h2> <br> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&hide=Jupyter%20Notebook,c%2B%2B&langs_count=5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)
+
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📋 Posts </h2> <br> 
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=j2982477)](https://github.com/j2982477/velog-readme-stats)

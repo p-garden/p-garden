@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=d6b1fa&height=300&section=header&text=%20Jeongwon's%20GitHub%20&fontSize=90)
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm majoring in DataScience. </div> 
   <br>
@@ -56,6 +55,14 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=j2982477)](https://github.com/j2982477/velog-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=j2982477)](https://velog.io/@j2982477)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=p-garden&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/p-garden"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **p-garden/p-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

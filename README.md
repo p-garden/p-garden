@@ -2,7 +2,7 @@
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm majoring in DataScience. </div> 
   <br>
-   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in  <li> Data Analystic</li><li> Statistical Meachine Learning</li> <li> NLP Model </li><li> LLM Inference & LLM Service Development</li> <li> Tool 
+   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in  <li> Data Analystic</li><li> Statistical Meachine Learning</li> <li> NLP Model </li><li> LLM Inference & LLM Development Service</li> <li> Tool 
        Development & MCP </div> 
     </div>
     <div style="text-align: left;">

@@ -2,7 +2,8 @@
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm majoring in DataScience. </div> 
   <br>
-   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in <li> Statistical Meachine Learning</li> <li> NLP Model </li><li> LLM</li> <li> Agentic AI & MCP </div> 
+   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in  <li> Data Analystic</li><li> Statistical Meachine Learning</li> <li> NLP Model </li><li> LLM Inference & LLM Service Development</li> <li> Tool 
+       Development & MCP </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻Tech Stacks💻 </h2> <br> 
@@ -13,6 +14,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+          <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
          <br>
             <h3> Web Framework </h3>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
@@ -24,7 +26,6 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
         <br>
         <h3> VIZ & Collaboration</h3>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">

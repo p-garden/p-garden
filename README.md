@@ -47,8 +47,8 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⚡️ Stats </h2> <br> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-garden&layout=donut&hide=css,jupyter%20%notebook,html&langs_count=5)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=p-garden&show_icons=true&hide=&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=p-garden&layout=donut&hide=css,jupyter%20%notebook,html&langs_count=5)
 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📋 Posts </h2> <br> 
